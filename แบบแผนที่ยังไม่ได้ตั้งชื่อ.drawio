@@ -1,1 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T09:28:03.157Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="MFduxKVYyrSkjicsLVdS" type="github"><diagram id="2wBrzVaHeSveo6lcsjZL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-28T10:09:54.683Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="F1UY9E87BsBNLL-A4y4f" type="github">
+  <diagram id="aRYYWC3o0BWhAhNZISu4" name="หน้า-1">
+    <mxGraphModel dx="868" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-2" target="4nkI0PiDblABY7ZoHJrZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-2" value="อาบน้ำ" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-4" target="4nkI0PiDblABY7ZoHJrZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-4" value="ตื่นนอน" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-5" target="4nkI0PiDblABY7ZoHJrZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-5" value="กินข้าว" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-43" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="-990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="-990" />
+              <mxPoint x="650" y="-990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-49" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-7" target="4nkI0PiDblABY7ZoHJrZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-7" value="อิ่มไหม" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-1030" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-18" target="4nkI0PiDblABY7ZoHJrZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-18" value="ดื่มน้ำ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-20" target="4nkI0PiDblABY7ZoHJrZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-20" value="ล้างจาน" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-22" target="4nkI0PiDblABY7ZoHJrZ-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="-840" />
+              <mxPoint x="370" y="-840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-22" value="ทำการบ้าน" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-25" target="4nkI0PiDblABY7ZoHJrZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-25" value="กินข้าวเที่ยง" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-51" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-27" target="4nkI0PiDblABY7ZoHJrZ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-52" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-27" target="4nkI0PiDblABY7ZoHJrZ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-27" value="อิ่มไหม" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-33" value="ไปกินต่อ" style="whiteSpace=wrap;html=1;sketch=0;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-35" value="ไปพักผ่อน" style="whiteSpace=wrap;html=1;sketch=0;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="-990" as="sourcePoint" />
+            <mxPoint x="710" y="-1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4nkI0PiDblABY7ZoHJrZ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="-1110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-53" target="4nkI0PiDblABY7ZoHJrZ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-53" value="นอนกลางวัน" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-584" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.617;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4nkI0PiDblABY7ZoHJrZ-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374" y="-620" as="sourcePoint" />
+            <mxPoint x="440" y="-620" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-61" target="4nkI0PiDblABY7ZoHJrZ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-61" value="ขายของช่วยพ่อแม่" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-63" target="4nkI0PiDblABY7ZoHJrZ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-63" value="อาบน้ำ" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4nkI0PiDblABY7ZoHJrZ-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-65" value="กินข้าว" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nkI0PiDblABY7ZoHJrZ-69" value="นอน" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-230" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
